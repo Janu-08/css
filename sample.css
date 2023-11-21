@@ -1,0 +1,19 @@
+/*applying styles*/
+/*element selector*/
+h1{
+   color: aqua;
+}
+
+
+h2{
+    color: rgb(226, 43, 186);
+}
+ body{
+
+background-color:hotpink;
+background-image: url("https://www.decorpot.com/images/201111318610-best-small-pooja-room-designs-for-your-home.jpg");
+background-repeat:  n0-response;
+background-position: right top;
+background-size: contain;
+ }
+

@@ -1,0 +1,15 @@
+/*border,background,color*/
+p{
+    border-bottom: dashed;
+    border-top-style: outset;
+    border-left-style: double;
+    border-right-style: groove;
+    border-top-color: aqua;
+    border-bottom-color: blue;
+    border-left-color: chocolate;
+    border-right-color: darkmagenta;
+    background: yellow
+    url("images/cn.jpg")
+    no-repeat
+    bottom;
+}

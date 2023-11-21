@@ -1,0 +1,14 @@
+/*styles for border properties*/
+p {
+    /*border-style: dashed;
+    border-width: 10px;
+    border-color: blue;*/
+    border-bottom: dashed;
+    border-top-style: outset;
+    border-left-style: double;
+    border-right-style: groove;
+    border-top-color: aqua;
+    border-bottom-color: blue;
+    border-left-color: chocolate;
+    border-right-color: darkmagenta;
+} 

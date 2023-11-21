@@ -1,0 +1,14 @@
+/*styles with background properties*/
+h2{
+    background-color: aquamarine;
+}
+body{
+    /*background-color: blue;
+    background-image: url("./images/doremon.png");
+    background-repeat: no-repeat;
+    background-position: center;*/
+    background: yellow
+    url("images/cn.jpg")
+    no-repeat
+    bottom;
+}
